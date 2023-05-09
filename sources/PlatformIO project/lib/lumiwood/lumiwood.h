@@ -9,6 +9,6 @@ class Screen
     public :
     Screen(int pin, int lenght=8, int width=8);
     
-}
+};
 
 #endif
